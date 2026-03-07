@@ -1,0 +1,16 @@
+department,category,txn_count,total_spend,avg_per_txn
+Engineering,Contractors,27,3869918.35,143330.31
+Engineering,Software Licenses,29,3424475.76,118085.37
+Engineering,Equipment,23,2874315.15,124970.22
+Marketing,Software,22,2394985.01,108862.96
+Marketing,Ad Spend,20,2291882.31,114594.12
+Sales,CRM Software,18,2088295.22,116016.4
+Engineering,Cloud Services,22,1983928.83,90178.58
+Sales,Client Entertainment,18,1854885.05,103049.17
+Sales,Commissions,15,1718508.87,114567.26
+Marketing,Content,19,1715037.29,90265.12
+HR,Training,29,1711271.49,59009.36
+Marketing,Events,17,1589448.14,93496.95
+HR,Recruitment,22,1237315.22,56241.6
+Sales,Travel,14,1114493.83,79606.7
+Operations,Office Supplies,27,1025650.24,37987.05

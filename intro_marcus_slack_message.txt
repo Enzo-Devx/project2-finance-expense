@@ -1,0 +1,10 @@
+ THE SCENARIO
+You just got hired as a DA at FinTrack — a small fintech startup that helps SMEs (small-medium enterprises) track their business finances. Your manager Marcus hits you up Monday morning:
+
+Marcus ⚡ 9:02 AM
+"Hey, the finance team needs a quarterly expense review ASAP. The CEO is asking why we're overspending and where. We've got two data dumps — transactions and a budget plan. Can you figure out:
+1. Which departments are over budget?
+2. Where is most of the money actually going?
+3. Are there any suspicious or anomalous transactions?
+4. What's the monthly spending trend look like?
+Data's in the drive. Need this by EOD Friday."

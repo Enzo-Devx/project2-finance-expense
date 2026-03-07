@@ -1,0 +1,95 @@
+Subject: Q1–Q3 2024 Expense Review — Full Findings & Recommendations
+
+Hi Marcus,
+
+I've completed the expense analysis. I'll be straight with you — the numbers are serious and the CEO is right to be asking questions.
+
+---
+
+THE BIG PICTURE
+
+  Total Actual Spend : ₱37,331,789
+  Total Budget       : ₱15,596,330
+  Overall Variance   : +₱21,735,459  (+139.4% over budget)
+
+Every single department exceeded their approved budget for the period. This is not a one-department problem — it's a company-wide spending control issue.
+
+---
+
+1. WHICH DEPARTMENTS ARE OVER BUDGET?
+
+All six departments are over budget. Here's the damage ranked by severity:
+
+  Engineering   +210.7% over   ₱12.15M spent vs ₱3.91M budgeted
+  Marketing     +156.0% over   ₱7.99M spent  vs ₱3.12M budgeted
+  Finance       +116.7% over   ₱2.70M spent  vs ₱1.24M budgeted
+  Sales          +90.1% over   ₱6.78M spent  vs ₱3.57M budgeted
+  Operations     +60.8% over   ₱3.25M spent  vs ₱2.02M budgeted
+  HR             +60.2% over   ₱4.46M spent  vs ₱2.79M budgeted
+
+Engineering is the most urgent — spending more than 3x their approved budget. Cloud Services, Contractors, and Software Licenses are the top cost drivers there.
+
+---
+
+2. WHERE IS THE MONEY ACTUALLY GOING?
+
+Top spending categories across the company:
+
+  • Cloud Services (Engineering)     — highest single category
+  • Ad Spend (Marketing)             — second largest
+  • Commissions (Sales)              — significant spike mid-year
+  • Contractors (Engineering)        — recurring overspend
+  • Travel & Client Entertainment    — Sales team, needs a cap
+
+The pattern suggests budget allocations were set too conservatively at the start of the year, but that doesn't fully explain a 139% overage.
+
+---
+
+3. SUSPICIOUS TRANSACTIONS — ACTION REQUIRED
+
+5 transactions have been flagged as statistically anomalous — amounts significantly beyond normal transaction ranges:
+
+  • All 5 are between ₱500,000 and ₱900,000
+  • All 5 carry a 'Flagged' status in the system
+  • Spread across multiple departments
+
+I'd recommend these be reviewed and verified against approved purchase orders before the CEO meeting. If any of these lack proper authorization, that's a controls issue that needs immediate escalation.
+
+---
+
+4. MONTHLY TREND
+
+Spending has been consistently over budget every single month from January through September — this is not a one-time spike. The overspend appears structural, not seasonal.
+
+Months with highest total spend tend to coincide with quarter-end months (March, June, September), suggesting departments may be rushing expenditures before quarter close.
+
+---
+
+RECOMMENDATIONS
+
+  1. Immediate — Investigate the 5 flagged transactions before the CEO meeting.
+     Verify authorization and match against POs.
+
+  2. Short term — Engineering needs a hard budget review. A 210% overage
+     suggests either the budget was unrealistic or spending is uncontrolled.
+     Either way, it needs a direct conversation.
+
+  3. Short term — Implement monthly budget checkpoints per department.
+     Right now there's no mechanism catching overspend until it's too late.
+
+  4. Medium term — Revisit the 2025 budget with realistic baselines.
+     The current approved budgets appear significantly below actual operational needs.
+
+  5. Medium term — Set spending caps on Travel and Client Entertainment
+     for the Sales team. These categories have high variance and low visibility.
+
+---
+
+I've attached the full interactive dashboard for the CEO meeting — it's filterable by department and month so you can drill into any question live during the presentation.
+
+Also attaching the 5 charts as PNGs if you need them for a slide deck.
+
+Happy to jump on a call before Friday if you need to walk through anything.
+
+Best,
+[Milan]

@@ -1,0 +1,496 @@
+txn_id,txn_date,department,category,vendor,amount,status,month,quarter,year,is_anomaly,is_refund
+TXN-5002,2024-09-03,Sales,Commissions,Internal Payroll,87798.02,Approved,9,3,2024,False,False
+TXN-5051,2024-08-17,Marketing,Content,Freelance Hub,140925.65,Approved,8,3,2024,False,False
+TXN-5059,2024-09-10,HR,Benefits,PhilHealth,33343.28,Approved,9,3,2024,False,False
+TXN-5066,2024-09-06,Finance,Accounting Software,QuickBooks,3198.32,Approved,9,3,2024,False,False
+TXN-5079,2024-04-22,HR,Benefits,Maxicare,63443.31,Approved,4,2,2024,False,False
+TXN-5100,2024-06-07,HR,Benefits,HMO Direct,89280.14,Approved,6,2,2024,False,False
+TXN-5111,2024-02-26,Engineering,Software Licenses,GitHub,49443.13,Approved,2,1,2024,False,False
+TXN-5128,2024-07-19,Sales,CRM Software,Salesforce,93027.37,Approved,7,3,2024,False,False
+TXN-5134,2024-07-26,Finance,Banking Fees,BDO,7384.64,Flagged,7,3,2024,False,False
+TXN-5137,2024-04-20,Marketing,Software,HubSpot,31879.03,Approved,4,2,2024,False,False
+TXN-5147,2024-08-28,Finance,Audit Fees,SGV & Co,13793.26,Approved,8,3,2024,False,False
+TXN-5158,2024-01-10,HR,Training,Udemy Teams,104656.25,Approved,1,1,2024,False,False
+TXN-5163,2024-01-12,Operations,Office Supplies,National Book Store,8635.24,Approved,1,1,2024,False,False
+TXN-5216,2024-08-03,Engineering,Contractors,TechStaff,192519.6,Approved,8,3,2024,False,False
+TXN-5221,2024-05-21,Marketing,Events,Venues Inc,21125.5,Approved,5,2,2024,False,False
+TXN-5248,2024-08-19,Engineering,Cloud Services,Google Cloud,114730.51,Approved,8,3,2024,False,False
+TXN-5268,2024-07-19,Marketing,Ad Spend,Meta Ads,122225.21,Approved,7,3,2024,False,False
+TXN-5275,2024-08-23,Sales,CRM Software,Salesforce,-12478.8,Approved,8,3,2024,False,True
+TXN-5307,2024-05-10,Engineering,Contractors,TechStaff,74163.66,Approved,5,2,2024,False,False
+TXN-5319,2024-07-08,Sales,Travel,Cebu Pacific,64352.92,Approved,7,3,2024,False,False
+TXN-5329,2024-09-13,Operations,Office Supplies,National Book Store,55323.58,Approved,9,3,2024,False,False
+TXN-5354,2024-03-07,Operations,Utilities,PLDT,67331.12,Approved,3,1,2024,False,False
+TXN-5363,2024-06-13,HR,Training,Udemy Teams,26272.96,Pending,6,2,2024,False,False
+TXN-5382,2024-05-28,HR,Recruitment,LinkedIn,114935.74,Approved,5,2,2024,False,False
+TXN-5401,2024-09-14,Operations,Logistics,J&T Express,3495.59,Approved,9,3,2024,False,False
+TXN-5413,2024-09-23,Engineering,Equipment,SM Cyberzone,182953.82,Approved,9,3,2024,False,False
+TXN-5421,2024-08-18,Finance,Banking Fees,UnionBank,22857.12,Approved,8,3,2024,False,False
+TXN-5426,2024-07-12,Finance,Audit Fees,P&A Grant Thornton,52809.24,Approved,7,3,2024,False,False
+TXN-5433,2024-02-20,Operations,Office Supplies,National Book Store,51263.37,Approved,2,1,2024,False,False
+TXN-5440,2024-04-21,Operations,Office Supplies,Lazada B2B,52561.25,Approved,4,2,2024,False,False
+TXN-5449,2024-09-14,Marketing,Software,HubSpot,141948.17,Approved,9,3,2024,False,False
+TXN-5067,2024-09-11,Finance,Accounting Software,Xero,14628.12,Approved,9,3,2024,False,False
+TXN-5073,2024-07-03,Operations,Logistics,J&T Express,22877.08,Approved,7,3,2024,False,False
+TXN-5109,2024-05-22,Operations,Logistics,Lalamove,21828.54,Approved,5,2,2024,False,False
+TXN-5116,2024-01-03,Sales,Client Entertainment,Resorts World,150858.45,Approved,1,1,2024,False,False
+TXN-5117,2024-08-06,Operations,Office Supplies,Lazada B2B,24100.19,Approved,8,3,2024,False,False
+TXN-5140,2024-05-04,Sales,Commissions,Internal Payroll,-14094.44,Approved,5,2,2024,False,True
+TXN-5141,2024-07-17,Marketing,Content,Content Studio,141948.89,Approved,7,3,2024,False,False
+TXN-5172,2024-03-12,Finance,Audit Fees,P&A Grant Thornton,36655.68,Approved,3,1,2024,False,False
+TXN-5177,2024-01-05,Sales,Client Entertainment,Makati Hotels,64765.91,Approved,1,1,2024,False,False
+TXN-5182,2024-04-02,Finance,Banking Fees,BPI,8879.43,Flagged,4,2,2024,False,False
+TXN-5196,2024-03-27,Operations,Office Supplies,Shopee B2B,13210.26,Approved,3,1,2024,False,False
+TXN-5204,2024-09-12,Finance,Accounting Software,Xero,49813.97,Approved,9,3,2024,False,False
+TXN-5217,2024-07-14,Operations,Maintenance,BuildFix Co,11851.95,Approved,7,3,2024,False,False
+TXN-5238,2024-01-08,Marketing,Software,Canva Pro,177919.4,Approved,1,1,2024,False,False
+TXN-5253,2024-05-10,Marketing,Software,Adobe,125241.69,Approved,5,2,2024,False,False
+TXN-5258,2024-09-26,Engineering,Software Licenses,Figma,147180.5,Approved,9,3,2024,False,False
+TXN-5304,2024-04-20,Engineering,Software Licenses,Jira,21362.87,Approved,4,2,2024,False,False
+TXN-5324,2024-01-17,Operations,Office Supplies,Shopee B2B,25151.86,Approved,1,1,2024,False,False
+TXN-5350,2024-06-05,Engineering,Contractors,DevShop PH,93923.22,Approved,6,2,2024,False,False
+TXN-5405,2024-05-20,Sales,Travel,Philippine Airlines,55341.99,Approved,5,2,2024,False,False
+TXN-5406,2024-03-26,Engineering,Software Licenses,Jira,215542.66,Approved,3,1,2024,False,False
+TXN-5424,2024-02-25,Sales,Client Entertainment,Makati Hotels,17159.88,Approved,2,1,2024,False,False
+TXN-5428,2024-01-25,HR,Recruitment,JobStreet,63798.27,Approved,1,1,2024,False,False
+TXN-5437,2024-04-12,HR,Recruitment,LinkedIn,67398.85,Pending,4,2,2024,False,False
+TXN-5438,2024-07-07,HR,Benefits,HMO Direct,52627.66,Approved,7,3,2024,False,False
+TXN-5442,2024-02-10,Operations,Maintenance,TechRepair,10077.77,Flagged,2,1,2024,False,False
+TXN-5452,2024-06-03,Finance,Taxes,BIR Payment,48534.57,Approved,6,2,2024,False,False
+TXN-5482,2024-05-08,Finance,Audit Fees,P&A Grant Thornton,10046.4,Approved,5,2,2024,False,False
+TXN-5483,2024-03-15,Finance,Banking Fees,BDO,23058.73,Approved,3,1,2024,False,False
+TXN-5485,2024-07-24,Sales,Commissions,Internal Payroll,59906.4,Approved,7,3,2024,False,False
+TXN-5001,2024-07-13,Engineering,Software Licenses,GitHub,68120.38,Approved,7,3,2024,False,False
+TXN-5004,2024-09-22,Marketing,Software,Canva Pro,75458.98,Approved,9,3,2024,False,False
+TXN-5057,2024-05-17,Operations,Office Supplies,Unknown Vendor,16772.68,Approved,5,2,2024,False,False
+TXN-5065,2024-09-22,Engineering,Software Licenses,Figma,134595.61,Approved,9,3,2024,False,False
+TXN-5080,2024-05-20,Operations,Maintenance,BuildFix Co,51439.11,Approved,5,2,2024,False,False
+TXN-5085,2024-02-08,Finance,Banking Fees,BPI,13439.36,Approved,2,1,2024,False,False
+TXN-5120,2024-02-05,HR,Training,TrainPH,47154.42,Approved,2,1,2024,False,False
+TXN-5121,2024-02-20,HR,Benefits,PhilHealth,62658.59,Pending,2,1,2024,False,False
+TXN-5136,2024-07-11,Marketing,Events,Catering Co,52117.13,Approved,7,3,2024,False,False
+TXN-5157,2024-05-15,Sales,CRM Software,Zoho CRM,171633.98,Approved,5,2,2024,False,False
+TXN-5193,2024-06-20,HR,Payroll Tools,Sprout HR,102936.07,Approved,6,2,2024,False,False
+TXN-5205,2024-04-19,Finance,Accounting Software,QuickBooks,42959.47,Approved,4,2,2024,False,False
+TXN-5259,2024-06-17,Marketing,Software,Adobe,84988.19,Approved,6,2,2024,False,False
+TXN-5260,2024-08-23,Finance,Banking Fees,UnionBank,56190.93,Approved,8,3,2024,False,False
+TXN-5289,2024-05-12,HR,Training,TrainPH,117132.56,Approved,5,2,2024,False,False
+TXN-5303,2024-01-17,Finance,Taxes,BIR Payment,71742.95,Flagged,1,1,2024,False,False
+TXN-5343,2024-08-10,HR,Training,Udemy Teams,102363.19,Approved,8,3,2024,False,False
+TXN-5346,2024-04-27,Engineering,Equipment,SM Cyberzone,183475.67,Pending,4,2,2024,False,False
+TXN-5364,2024-09-15,Operations,Maintenance,CleanPro,45130.32,Flagged,9,3,2024,False,False
+TXN-5370,2024-08-24,HR,Training,Udemy Teams,82438.35,Flagged,8,3,2024,False,False
+TXN-5373,2024-08-08,Sales,Client Entertainment,BGC Restaurants,67517.86,Approved,8,3,2024,False,False
+TXN-5409,2024-03-01,Marketing,Ad Spend,Google Ads,144404.38,Pending,3,1,2024,False,False
+TXN-5454,2024-01-01,Engineering,Equipment,SM Cyberzone,99536.14,Approved,1,1,2024,False,False
+TXN-5460,2024-06-01,Sales,Commissions,Internal Payroll,173394.07,Approved,6,2,2024,False,False
+TXN-5465,2024-04-01,HR,Payroll Tools,PayrollHero,14479.91,Approved,4,2,2024,False,False
+TXN-5475,2024-04-05,Marketing,Ad Spend,Google Ads,20555.37,Approved,4,2,2024,False,False
+TXN-5006,2024-03-24,HR,Training,TrainPH,80594.76,Approved,3,1,2024,False,False
+TXN-5007,2024-07-03,HR,Recruitment,JobStreet,39937.6,Approved,7,3,2024,False,False
+TXN-5011,2024-06-06,Finance,Audit Fees,P&A Grant Thornton,2813.84,Approved,6,2,2024,False,False
+TXN-5023,2024-03-12,Operations,Utilities,PLDT,43295.1,Approved,3,1,2024,False,False
+TXN-5062,2024-02-25,Engineering,Equipment,Dell PH,35716.82,Approved,2,1,2024,False,False
+TXN-5104,2024-04-07,HR,Payroll Tools,PayrollHero,52294.45,Approved,4,2,2024,False,False
+TXN-5133,2024-03-01,Operations,Office Supplies,National Book Store,26452.25,Approved,3,1,2024,False,False
+TXN-5160,2024-01-04,Marketing,Content,Content Studio,96429.88,Approved,1,1,2024,False,False
+TXN-5176,2024-07-23,Operations,Utilities,Manila Water,50810.96,Pending,7,3,2024,False,False
+TXN-5190,2024-07-06,HR,Payroll Tools,Sprout HR,39005.71,Approved,7,3,2024,False,False
+TXN-5208,2024-08-01,Engineering,Contractors,DevShop PH,108571.6,Approved,8,3,2024,False,False
+TXN-5218,2024-09-20,Engineering,Equipment,SM Cyberzone,215575.74,Approved,9,3,2024,False,False
+TXN-5220,2024-02-21,Finance,Banking Fees,BPI,59470.16,Pending,2,1,2024,False,False
+TXN-5223,2024-03-19,Engineering,Equipment,CDR-King,112939.1,Pending,3,1,2024,False,False
+TXN-5236,2024-05-23,Engineering,Contractors,DevShop PH,144577.85,Approved,5,2,2024,False,False
+TXN-5254,2024-06-03,Marketing,Ad Spend,TikTok Ads,131615.06,Approved,6,2,2024,False,False
+TXN-5257,2024-01-26,Sales,CRM Software,Salesforce,185246.29,Approved,1,1,2024,False,False
+TXN-5265,2024-02-28,Engineering,Software Licenses,GitHub,149939.19,Approved,2,1,2024,False,False
+TXN-5280,2024-01-07,Finance,Accounting Software,Xero,15825.22,Approved,1,1,2024,False,False
+TXN-5295,2024-05-24,Engineering,Cloud Services,AWS,41072.69,Approved,5,2,2024,False,False
+TXN-5309,2024-06-10,Operations,Maintenance,BuildFix Co,33582.07,Approved,6,2,2024,False,False
+TXN-5314,2024-01-17,HR,Training,Udemy Teams,11963.42,Approved,1,1,2024,False,False
+TXN-5331,2024-03-11,Operations,Office Supplies,Lazada B2B,22182.72,Approved,3,1,2024,False,False
+TXN-5337,2024-09-24,Marketing,Events,Venues Inc,147718.74,Approved,9,3,2024,False,False
+TXN-5342,2024-09-19,Operations,Office Supplies,Shopee B2B,4631.07,Approved,9,3,2024,False,False
+TXN-5381,2024-05-26,Finance,Taxes,BIR Payment,-18179.95,Approved,5,2,2024,False,True
+TXN-5384,2024-02-09,Operations,Utilities,Manila Water,32627.11,Approved,2,1,2024,False,False
+TXN-5455,2024-09-26,Marketing,Software,HubSpot,87068.64,Flagged,9,3,2024,False,False
+TXN-5463,2024-05-26,Sales,Client Entertainment,BGC Restaurants,70501.27,Approved,5,2,2024,False,False
+TXN-5469,2024-05-21,Engineering,Equipment,Dell PH,14762.93,Approved,5,2,2024,False,False
+TXN-5486,2024-06-11,Sales,Client Entertainment,Resorts World,137869.3,Approved,6,2,2024,False,False
+TXN-5015,2024-06-26,HR,Training,Udemy Teams,53986.94,Approved,6,2,2024,False,False
+TXN-5049,2024-07-25,Sales,CRM Software,Zoho CRM,144142.59,Approved,7,3,2024,False,False
+TXN-5069,2024-09-18,HR,Benefits,PhilHealth,78417.43,Pending,9,3,2024,False,False
+TXN-5071,2024-05-09,HR,Training,Coursera B2B,81370.94,Flagged,5,2,2024,False,False
+TXN-5074,2024-09-02,Engineering,Contractors,DevShop PH,231443.54,Approved,9,3,2024,False,False
+TXN-5115,2024-09-05,Sales,Commissions,Internal Payroll,161011.86,Approved,9,3,2024,False,False
+TXN-5130,2024-08-22,HR,Recruitment,Kalibrr,29371.15,Approved,8,3,2024,False,False
+TXN-5144,2024-01-10,Marketing,Ad Spend,TikTok Ads,156396.21,Approved,1,1,2024,False,False
+TXN-5161,2024-06-19,HR,Recruitment,JobStreet,18002.89,Approved,6,2,2024,False,False
+TXN-5168,2024-05-02,Marketing,Ad Spend,TikTok Ads,6163.9,Approved,5,2,2024,False,False
+TXN-5210,2024-09-23,Engineering,Contractors,DevShop PH,202619.88,Approved,9,3,2024,False,False
+TXN-5226,2024-08-28,Engineering,Contractors,TechStaff,116044.95,Flagged,8,3,2024,False,False
+TXN-5231,2024-03-25,Marketing,Events,EventPro PH,148433.13,Approved,3,1,2024,False,False
+TXN-5242,2024-08-06,Marketing,Software,HubSpot,145953.03,Approved,8,3,2024,False,False
+TXN-5245,2024-03-09,Finance,Taxes,BIR Payment,22748.75,Approved,3,1,2024,False,False
+TXN-5283,2024-09-27,Finance,Banking Fees,UnionBank,6623.73,Approved,9,3,2024,False,False
+TXN-5318,2024-07-06,HR,Recruitment,LinkedIn,34381.68,Approved,7,3,2024,False,False
+TXN-5330,2024-03-12,Marketing,Events,Catering Co,155917.85,Approved,3,1,2024,False,False
+TXN-5356,2024-09-25,Engineering,Equipment,Dell PH,249465.5,Approved,9,3,2024,False,False
+TXN-5374,2024-06-27,Sales,Client Entertainment,Makati Hotels,8178.69,Approved,6,2,2024,False,False
+TXN-5389,2024-09-19,HR,Benefits,PhilHealth,71047.22,Approved,9,3,2024,False,False
+TXN-5397,2024-07-18,Marketing,Content,Content Studio,173936.07,Approved,7,3,2024,False,False
+TXN-5402,2024-06-18,Engineering,Equipment,SM Cyberzone,211185.93,Approved,6,2,2024,False,False
+TXN-5412,2024-02-11,Engineering,Contractors,Freelance Hub,75565.9,Approved,2,1,2024,False,False
+TXN-5420,2024-02-02,Engineering,Contractors,DevShop PH,244926.56,Flagged,2,1,2024,False,False
+TXN-5434,2024-09-14,Engineering,Equipment,Dell PH,62559.46,Approved,9,3,2024,False,False
+TXN-5439,2024-03-16,Operations,Maintenance,BuildFix Co,82424.35,Approved,3,1,2024,False,False
+TXN-5010,2024-03-14,Engineering,Software Licenses,Figma,85223.76,Approved,3,1,2024,False,False
+TXN-5019,2024-03-17,HR,Training,Udemy Teams,90834.92,Approved,3,1,2024,False,False
+TXN-5029,2024-03-27,Engineering,Software Licenses,Figma,28935.06,Approved,3,1,2024,False,False
+TXN-5041,2024-03-16,Finance,Banking Fees,BDO,63385.78,Approved,3,1,2024,False,False
+TXN-5078,2024-05-19,Operations,Utilities,Manila Water,83116.78,Approved,5,2,2024,False,False
+TXN-5082,2024-03-01,Engineering,Contractors,Freelance Hub,75185.56,Approved,3,1,2024,False,False
+TXN-5083,2024-06-19,Engineering,Cloud Services,Azure,104543.91,Approved,6,2,2024,False,False
+TXN-5112,2024-05-03,Engineering,Software Licenses,Figma,193826.46,Approved,5,2,2024,False,False
+TXN-5127,2024-02-03,HR,Training,TrainPH,37913.04,Approved,2,1,2024,False,False
+TXN-5131,2024-01-07,Engineering,Cloud Services,AWS,136936.82,Approved,1,1,2024,False,False
+TXN-5132,2024-06-23,Marketing,Software,Adobe,137056.95,Approved,6,2,2024,False,False
+TXN-5153,2024-04-27,Marketing,Content,Freelance Hub,5309.27,Approved,4,2,2024,False,False
+TXN-5155,2024-05-13,Engineering,Contractors,Freelance Hub,100674.83,Approved,5,2,2024,False,False
+TXN-5165,2024-01-16,Sales,Travel,Cebu Pacific,32911.89,Approved,1,1,2024,False,False
+TXN-5173,2024-07-09,Engineering,Cloud Services,Google Cloud,-6740.63,Flagged,7,3,2024,False,True
+TXN-5186,2024-09-27,HR,Recruitment,LinkedIn,27887.28,Approved,9,3,2024,False,False
+TXN-5189,2024-06-28,Marketing,Content,Freelance Hub,31926.5,Approved,6,2,2024,False,False
+TXN-5199,2024-01-22,Engineering,Cloud Services,Unknown Vendor,15019.89,Approved,1,1,2024,False,False
+TXN-5207,2024-05-19,Engineering,Software Licenses,Jira,202236.8,Approved,5,2,2024,False,False
+TXN-5213,2024-06-11,HR,Training,TrainPH,18448.76,Approved,6,2,2024,False,False
+TXN-5224,2024-02-22,Engineering,Software Licenses,Jira,79256.75,Approved,2,1,2024,False,False
+TXN-5239,2024-09-01,HR,Recruitment,Unknown Vendor,11527.8,Approved,9,3,2024,False,False
+TXN-5282,2024-09-07,Sales,CRM Software,Salesforce,118629.84,Approved,9,3,2024,False,False
+TXN-5285,2024-09-26,HR,Recruitment,LinkedIn,63234.69,Approved,9,3,2024,False,False
+TXN-5286,2024-08-17,Operations,Office Supplies,Shopee B2B,80089.58,Approved,8,3,2024,False,False
+TXN-5298,2024-05-27,Engineering,Equipment,SM Cyberzone,150157.82,Approved,5,2,2024,False,False
+TXN-5306,2024-06-13,Engineering,Software Licenses,GitHub,242983.4,Approved,6,2,2024,False,False
+TXN-5311,2024-06-16,Finance,Banking Fees,UnionBank,24828.29,Approved,6,2,2024,False,False
+TXN-5315,2024-03-24,Marketing,Ad Spend,Google Ads,165136.42,Approved,3,1,2024,False,False
+TXN-5335,2024-02-07,Marketing,Content,Content Studio,100228.06,Approved,2,1,2024,False,False
+TXN-5345,2024-07-24,Sales,Commissions,Internal Payroll,19196.44,Approved,7,3,2024,False,False
+TXN-5348,2024-01-13,Sales,CRM Software,Salesforce,82624.64,Approved,1,1,2024,False,False
+TXN-5377,2024-04-21,Finance,Accounting Software,QuickBooks,9772.3,Approved,4,2,2024,False,False
+TXN-5386,2024-02-12,Operations,Office Supplies,National Book Store,661689.62,Flagged,2,1,2024,True,False
+TXN-5394,2024-03-19,Sales,Client Entertainment,BGC Restaurants,123690.01,Approved,3,1,2024,False,False
+TXN-5414,2024-05-07,Sales,Travel,Unknown Vendor,188368.64,Approved,5,2,2024,False,False
+TXN-5495,2024-06-15,Engineering,Software Licenses,Jira,37264.67,Approved,6,2,2024,False,False
+TXN-5028,2024-02-18,Engineering,Software Licenses,Figma,93591.14,Pending,2,1,2024,False,False
+TXN-5034,2024-05-10,Marketing,Software,Canva Pro,145283.37,Approved,5,2,2024,False,False
+TXN-5036,2024-05-24,HR,Payroll Tools,Sprout HR,24201.94,Approved,5,2,2024,False,False
+TXN-5058,2024-02-09,HR,Payroll Tools,Sprout HR,107057.18,Approved,2,1,2024,False,False
+TXN-5061,2024-01-11,Finance,Taxes,BIR Payment,-17517.88,Approved,1,1,2024,False,True
+TXN-5088,2024-03-16,Sales,CRM Software,Salesforce,191282.69,Flagged,3,1,2024,False,False
+TXN-5091,2024-03-26,Marketing,Software,HubSpot,167802.78,Flagged,3,1,2024,False,False
+TXN-5093,2024-04-07,Sales,Travel,Airbnb Biz,95488.31,Approved,4,2,2024,False,False
+TXN-5095,2024-05-25,Operations,Office Supplies,National Book Store,64558.2,Approved,5,2,2024,False,False
+TXN-5099,2024-02-26,Marketing,Events,EventPro PH,65211.26,Approved,2,1,2024,False,False
+TXN-5101,2024-01-22,Marketing,Events,EventPro PH,58410.02,Approved,1,1,2024,False,False
+TXN-5102,2024-06-19,Operations,Utilities,PLDT,83542.98,Approved,6,2,2024,False,False
+TXN-5180,2024-08-17,HR,Recruitment,Kalibrr,96609.21,Approved,8,3,2024,False,False
+TXN-5181,2024-03-02,Sales,CRM Software,Salesforce,67507.04,Approved,3,1,2024,False,False
+TXN-5203,2024-06-14,HR,Training,Coursera B2B,4432.98,Pending,6,2,2024,False,False
+TXN-5212,2024-03-11,Operations,Office Supplies,National Book Store,4960.65,Approved,3,1,2024,False,False
+TXN-5274,2024-04-12,Finance,Audit Fees,P&A Grant Thornton,42872.75,Approved,4,2,2024,False,False
+TXN-5278,2024-03-15,Finance,Accounting Software,QuickBooks,22687.29,Approved,3,1,2024,False,False
+TXN-5284,2024-01-14,Finance,Banking Fees,Unknown Vendor,5069.11,Approved,1,1,2024,False,False
+TXN-5290,2024-03-22,HR,Payroll Tools,PayrollHero,10159.61,Approved,3,1,2024,False,False
+TXN-5297,2024-04-08,Marketing,Content,Freelance Hub,88333.98,Approved,4,2,2024,False,False
+TXN-5336,2024-07-02,Engineering,Software Licenses,GitHub,20936.56,Approved,7,3,2024,False,False
+TXN-5361,2024-06-24,Marketing,Content,Freelance Hub,140966.0,Flagged,6,2,2024,False,False
+TXN-5371,2024-04-28,Operations,Utilities,PLDT,55429.49,Approved,4,2,2024,False,False
+TXN-5375,2024-06-07,Engineering,Equipment,Dell PH,76026.58,Approved,6,2,2024,False,False
+TXN-5378,2024-02-23,Operations,Office Supplies,Shopee B2B,21358.49,Flagged,2,1,2024,False,False
+TXN-5379,2024-03-15,Engineering,Cloud Services,Google Cloud,62991.36,Pending,3,1,2024,False,False
+TXN-5387,2024-03-09,HR,Recruitment,JobStreet,19836.31,Approved,3,1,2024,False,False
+TXN-5407,2024-06-18,HR,Recruitment,JobStreet,37783.66,Approved,6,2,2024,False,False
+TXN-5410,2024-06-07,Finance,Taxes,BIR Payment,67143.15,Approved,6,2,2024,False,False
+TXN-5417,2024-09-04,Marketing,Ad Spend,Google Ads,155837.83,Flagged,9,3,2024,False,False
+TXN-5445,2024-04-17,Operations,Logistics,LBC,31918.97,Approved,4,2,2024,False,False
+TXN-5456,2024-04-05,Operations,Utilities,PLDT,76279.34,Approved,4,2,2024,False,False
+TXN-5494,2024-02-12,Operations,Utilities,Meralco,7896.04,Flagged,2,1,2024,False,False
+TXN-5009,2024-01-05,Finance,Banking Fees,UnionBank,70709.31,Approved,1,1,2024,False,False
+TXN-5026,2024-03-05,Sales,Travel,Cebu Pacific,13011.48,Approved,3,1,2024,False,False
+TXN-5027,2024-08-02,Finance,Taxes,BIR Payment,60790.87,Approved,8,3,2024,False,False
+TXN-5037,2024-03-27,Sales,Travel,Cebu Pacific,6837.87,Pending,3,1,2024,False,False
+TXN-5039,2024-08-03,Engineering,Software Licenses,Jira,113189.17,Approved,8,3,2024,False,False
+TXN-5087,2024-09-01,Engineering,Contractors,TechStaff,219073.67,Approved,9,3,2024,False,False
+TXN-5129,2024-06-23,HR,Benefits,Maxicare,76018.14,Approved,6,2,2024,False,False
+TXN-5184,2024-08-22,Finance,Accounting Software,QuickBooks,44667.38,Approved,8,3,2024,False,False
+TXN-5185,2024-04-13,Engineering,Cloud Services,Google Cloud,213294.78,Approved,4,2,2024,False,False
+TXN-5228,2024-08-10,Marketing,Ad Spend,Meta Ads,162534.82,Approved,8,3,2024,False,False
+TXN-5232,2024-09-28,Operations,Office Supplies,Lazada B2B,61000.86,Approved,9,3,2024,False,False
+TXN-5235,2024-07-20,Operations,Utilities,PLDT,75303.79,Approved,7,3,2024,False,False
+TXN-5240,2024-01-20,Finance,Taxes,BIR Payment,21084.92,Approved,1,1,2024,False,False
+TXN-5262,2024-05-12,Engineering,Contractors,TechStaff,84620.57,Approved,5,2,2024,False,False
+TXN-5300,2024-05-04,Engineering,Equipment,CDR-King,105722.87,Approved,5,2,2024,False,False
+TXN-5308,2024-08-09,Marketing,Ad Spend,Meta Ads,20824.55,Approved,8,3,2024,False,False
+TXN-5312,2024-05-15,Engineering,Contractors,DevShop PH,122878.16,Approved,5,2,2024,False,False
+TXN-5355,2024-08-20,Finance,Banking Fees,BPI,49617.87,Approved,8,3,2024,False,False
+TXN-5367,2024-08-26,Marketing,Events,EventPro PH,5326.29,Approved,8,3,2024,False,False
+TXN-5395,2024-05-22,Sales,Commissions,Internal Payroll,156770.57,Approved,5,2,2024,False,False
+TXN-5398,2024-03-03,Engineering,Equipment,SM Cyberzone,207354.35,Approved,3,1,2024,False,False
+TXN-5403,2024-06-12,Sales,Commissions,Unknown Vendor,109294.5,Pending,6,2,2024,False,False
+TXN-5416,2024-03-07,HR,Benefits,Maxicare,7388.13,Approved,3,1,2024,False,False
+TXN-5425,2024-01-17,Finance,Accounting Software,Xero,21378.31,Pending,1,1,2024,False,False
+TXN-5431,2024-06-22,Finance,Taxes,BIR Payment,34082.52,Approved,6,2,2024,False,False
+TXN-5435,2024-09-07,Finance,Taxes,BIR Payment,31077.45,Approved,9,3,2024,False,False
+TXN-5446,2024-09-12,Finance,Audit Fees,P&A Grant Thornton,518768.91,Flagged,9,3,2024,True,False
+TXN-5470,2024-04-08,Sales,Commissions,Internal Payroll,-6072.49,Approved,4,2,2024,False,True
+TXN-5478,2024-03-11,Sales,Commissions,Internal Payroll,108893.87,Pending,3,1,2024,False,False
+TXN-5008,2024-01-21,Engineering,Contractors,Freelance Hub,140003.96,Approved,1,1,2024,False,False
+TXN-5014,2024-04-13,Operations,Maintenance,BuildFix Co,79779.45,Approved,4,2,2024,False,False
+TXN-5024,2024-08-19,Finance,Taxes,BIR Payment,73571.79,Approved,8,3,2024,False,False
+TXN-5032,2024-08-24,Sales,Travel,Airbnb Biz,175833.98,Approved,8,3,2024,False,False
+TXN-5035,2024-06-22,Operations,Logistics,J&T Express,73808.36,Approved,6,2,2024,False,False
+TXN-5063,2024-04-03,Sales,Travel,Cebu Pacific,10877.57,Approved,4,2,2024,False,False
+TXN-5096,2024-08-01,HR,Recruitment,LinkedIn,-9069.93,Approved,8,3,2024,False,True
+TXN-5105,2024-05-17,Marketing,Events,Venues Inc,175027.08,Approved,5,2,2024,False,False
+TXN-5122,2024-01-20,Marketing,Software,HubSpot,155672.96,Approved,1,1,2024,False,False
+TXN-5126,2024-07-10,Marketing,Ad Spend,Meta Ads,149942.47,Approved,7,3,2024,False,False
+TXN-5139,2024-03-21,Engineering,Cloud Services,Google Cloud,75567.67,Approved,3,1,2024,False,False
+TXN-5145,2024-08-08,Engineering,Software Licenses,Jira,174237.48,Approved,8,3,2024,False,False
+TXN-5156,2024-09-08,Finance,Taxes,BIR Payment,29232.38,Approved,9,3,2024,False,False
+TXN-5166,2024-03-16,HR,Payroll Tools,PayrollHero,56298.37,Approved,3,1,2024,False,False
+TXN-5214,2024-07-11,Engineering,Cloud Services,Google Cloud,84116.99,Approved,7,3,2024,False,False
+TXN-5229,2024-08-21,Sales,Client Entertainment,BGC Restaurants,144341.43,Approved,8,3,2024,False,False
+TXN-5269,2024-08-28,HR,Training,TrainPH,31867.71,Approved,8,3,2024,False,False
+TXN-5272,2024-08-19,Engineering,Contractors,TechStaff,195100.38,Approved,8,3,2024,False,False
+TXN-5279,2024-03-15,Operations,Logistics,Lalamove,76044.38,Approved,3,1,2024,False,False
+TXN-5281,2024-09-17,Operations,Utilities,Meralco,62822.88,Pending,9,3,2024,False,False
+TXN-5316,2024-09-26,HR,Payroll Tools,PayrollHero,54895.17,Approved,9,3,2024,False,False
+TXN-5320,2024-04-26,Sales,CRM Software,Zoho CRM,173611.71,Approved,4,2,2024,False,False
+TXN-5323,2024-02-02,Engineering,Software Licenses,Figma,190435.92,Approved,2,1,2024,False,False
+TXN-5344,2024-05-23,Marketing,Ad Spend,TikTok Ads,148514.22,Pending,5,2,2024,False,False
+TXN-5366,2024-05-06,Marketing,Ad Spend,Google Ads,124599.52,Approved,5,2,2024,False,False
+TXN-5380,2024-04-20,Marketing,Events,EventPro PH,46946.39,Approved,4,2,2024,False,False
+TXN-5391,2024-01-10,Engineering,Contractors,Freelance Hub,182686.19,Approved,1,1,2024,False,False
+TXN-5436,2024-07-01,Engineering,Contractors,TechStaff,32352.55,Approved,7,3,2024,False,False
+TXN-5468,2024-04-15,Finance,Accounting Software,Xero,53256.85,Approved,4,2,2024,False,False
+TXN-5052,2024-08-14,Operations,Utilities,Manila Water,63349.1,Pending,8,3,2024,False,False
+TXN-5054,2024-03-28,HR,Training,Unknown Vendor,106450.28,Approved,3,1,2024,False,False
+TXN-5092,2024-04-05,Engineering,Equipment,Dell PH,-5174.64,Flagged,4,2,2024,False,True
+TXN-5114,2024-08-25,Engineering,Cloud Services,AWS,24539.43,Pending,8,3,2024,False,False
+TXN-5118,2024-02-24,HR,Training,Udemy Teams,36273.67,Approved,2,1,2024,False,False
+TXN-5125,2024-03-07,Sales,Travel,Airbnb Biz,80020.45,Approved,3,1,2024,False,False
+TXN-5135,2024-06-17,Operations,Maintenance,BuildFix Co,77200.79,Approved,6,2,2024,False,False
+TXN-5138,2024-02-15,Finance,Banking Fees,BDO,56846.02,Approved,2,1,2024,False,False
+TXN-5159,2024-08-20,HR,Training,Coursera B2B,7176.41,Approved,8,3,2024,False,False
+TXN-5164,2024-04-11,Operations,Maintenance,CleanPro,79995.34,Approved,4,2,2024,False,False
+TXN-5191,2024-02-07,HR,Payroll Tools,PayrollHero,-16686.8,Flagged,2,1,2024,False,True
+TXN-5192,2024-06-23,Marketing,Software,Canva Pro,41716.85,Approved,6,2,2024,False,False
+TXN-5201,2024-06-07,Engineering,Cloud Services,Google Cloud,133944.78,Flagged,6,2,2024,False,False
+TXN-5215,2024-03-04,HR,Training,TrainPH,25110.35,Approved,3,1,2024,False,False
+TXN-5233,2024-05-06,Marketing,Events,Catering Co,36745.29,Approved,5,2,2024,False,False
+TXN-5237,2024-01-24,Finance,Banking Fees,BPI,60699.58,Approved,1,1,2024,False,False
+TXN-5249,2024-03-08,Engineering,Equipment,CDR-King,151145.2,Flagged,3,1,2024,False,False
+TXN-5255,2024-03-01,Finance,Accounting Software,Xero,55322.13,Pending,3,1,2024,False,False
+TXN-5256,2024-01-01,HR,Benefits,PhilHealth,28967.9,Approved,1,1,2024,False,False
+TXN-5266,2024-06-05,Sales,Commissions,Internal Payroll,51831.1,Approved,6,2,2024,False,False
+TXN-5273,2024-09-16,Engineering,Equipment,CDR-King,169484.27,Approved,9,3,2024,False,False
+TXN-5328,2024-09-24,Engineering,Equipment,CDR-King,109283.59,Approved,9,3,2024,False,False
+TXN-5372,2024-07-25,HR,Training,Coursera B2B,115854.25,Approved,7,3,2024,False,False
+TXN-5376,2024-04-11,Operations,Maintenance,CleanPro,50427.71,Approved,4,2,2024,False,False
+TXN-5392,2024-06-15,Finance,Banking Fees,UnionBank,26576.62,Approved,6,2,2024,False,False
+TXN-5393,2024-01-06,Finance,Banking Fees,UnionBank,51502.65,Approved,1,1,2024,False,False
+TXN-5450,2024-07-24,Marketing,Events,Venues Inc,176835.14,Approved,7,3,2024,False,False
+TXN-5466,2024-04-20,Marketing,Software,Adobe,132602.77,Approved,4,2,2024,False,False
+TXN-5474,2024-02-09,HR,Benefits,PhilHealth,96362.61,Approved,2,1,2024,False,False
+TXN-5479,2024-09-28,HR,Training,Unknown Vendor,20276.83,Approved,9,3,2024,False,False
+TXN-5487,2024-01-24,Marketing,Ad Spend,Google Ads,63527.79,Approved,1,1,2024,False,False
+TXN-5490,2024-08-09,Engineering,Equipment,CDR-King,73053.69,Approved,8,3,2024,False,False
+TXN-5016,2024-07-22,Finance,Taxes,Unknown Vendor,29727.19,Approved,7,3,2024,False,False
+TXN-5018,2024-06-22,HR,Recruitment,JobStreet,62192.12,Approved,6,2,2024,False,False
+TXN-5043,2024-05-11,Sales,CRM Software,Zoho CRM,42683.22,Approved,5,2,2024,False,False
+TXN-5055,2024-06-07,Engineering,Cloud Services,AWS,249345.13,Approved,6,2,2024,False,False
+TXN-5076,2024-09-25,HR,Payroll Tools,Sprout HR,29128.63,Approved,9,3,2024,False,False
+TXN-5097,2024-06-23,Finance,Audit Fees,SGV & Co,29204.96,Approved,6,2,2024,False,False
+TXN-5107,2024-02-03,Marketing,Ad Spend,TikTok Ads,155553.43,Approved,2,1,2024,False,False
+TXN-5124,2024-08-26,Marketing,Content,Freelance Hub,71988.77,Approved,8,3,2024,False,False
+TXN-5146,2024-02-07,Sales,Commissions,Internal Payroll,72690.24,Approved,2,1,2024,False,False
+TXN-5169,2024-02-18,Finance,Banking Fees,BPI,59588.9,Approved,2,1,2024,False,False
+TXN-5197,2024-03-23,Finance,Audit Fees,P&A Grant Thornton,37813.02,Approved,3,1,2024,False,False
+TXN-5250,2024-01-20,Engineering,Equipment,CDR-King,35532.53,Approved,1,1,2024,False,False
+TXN-5252,2024-07-03,Sales,CRM Software,Salesforce,72943.52,Approved,7,3,2024,False,False
+TXN-5292,2024-09-25,Finance,Taxes,BIR Payment,61559.65,Pending,9,3,2024,False,False
+TXN-5301,2024-03-23,Engineering,Contractors,TechStaff,48275.62,Approved,3,1,2024,False,False
+TXN-5310,2024-06-19,HR,Training,Udemy Teams,93654.75,Approved,6,2,2024,False,False
+TXN-5313,2024-03-16,Marketing,Events,EventPro PH,155427.16,Flagged,3,1,2024,False,False
+TXN-5322,2024-05-26,Operations,Logistics,Lalamove,80871.23,Approved,5,2,2024,False,False
+TXN-5325,2024-04-27,Engineering,Cloud Services,Azure,76229.24,Approved,4,2,2024,False,False
+TXN-5339,2024-01-28,Finance,Banking Fees,UnionBank,15655.65,Approved,1,1,2024,False,False
+TXN-5347,2024-08-06,Sales,Commissions,Unknown Vendor,82830.39,Approved,8,3,2024,False,False
+TXN-5351,2024-02-19,Sales,CRM Software,Zoho CRM,111774.71,Approved,2,1,2024,False,False
+TXN-5352,2024-02-08,Sales,CRM Software,Zoho CRM,134205.8,Approved,2,1,2024,False,False
+TXN-5365,2024-07-08,Engineering,Contractors,Freelance Hub,82475.22,Approved,7,3,2024,False,False
+TXN-5369,2024-06-01,Engineering,Cloud Services,Google Cloud,54154.43,Approved,6,2,2024,False,False
+TXN-5399,2024-07-04,HR,Training,Coursera B2B,112891.15,Approved,7,3,2024,False,False
+TXN-5432,2024-04-14,Marketing,Content,Freelance Hub,58469.18,Approved,4,2,2024,False,False
+TXN-5451,2024-03-16,HR,Benefits,HMO Direct,37724.35,Approved,3,1,2024,False,False
+TXN-5472,2024-02-17,Finance,Accounting Software,QuickBooks,2592.76,Approved,2,1,2024,False,False
+TXN-5005,2024-09-03,HR,Training,TrainPH,57673.25,Approved,9,3,2024,False,False
+TXN-5040,2024-04-24,Sales,Commissions,Internal Payroll,144800.94,Approved,4,2,2024,False,False
+TXN-5044,2024-06-07,Marketing,Content,Unknown Vendor,51939.64,Pending,6,2,2024,False,False
+TXN-5050,2024-01-08,Operations,Office Supplies,Lazada B2B,11914.77,Approved,1,1,2024,False,False
+TXN-5089,2024-08-20,Sales,CRM Software,Unknown Vendor,125242.21,Approved,8,3,2024,False,False
+TXN-5090,2024-08-07,Marketing,Content,Content Studio,7029.75,Approved,8,3,2024,False,False
+TXN-5148,2024-04-19,Finance,Taxes,BIR Payment,14838.17,Approved,4,2,2024,False,False
+TXN-5149,2024-02-01,Sales,Travel,Cebu Pacific,82434.5,Approved,2,1,2024,False,False
+TXN-5150,2024-03-19,Marketing,Ad Spend,Google Ads,144368.8,Approved,3,1,2024,False,False
+TXN-5154,2024-07-06,Engineering,Cloud Services,Azure,180948.67,Approved,7,3,2024,False,False
+TXN-5162,2024-01-05,Sales,Client Entertainment,Resorts World,199625.4,Approved,1,1,2024,False,False
+TXN-5178,2024-09-13,HR,Payroll Tools,Sprout HR,17309.67,Approved,9,3,2024,False,False
+TXN-5183,2024-07-12,Sales,Commissions,Internal Payroll,139692.85,Pending,7,3,2024,False,False
+TXN-5187,2024-06-11,Marketing,Software,Canva Pro,64873.19,Approved,6,2,2024,False,False
+TXN-5188,2024-07-04,Operations,Logistics,LBC,9407.09,Approved,7,3,2024,False,False
+TXN-5222,2024-05-21,Operations,Office Supplies,National Book Store,45078.15,Approved,5,2,2024,False,False
+TXN-5225,2024-07-02,HR,Training,TrainPH,7368.01,Approved,7,3,2024,False,False
+TXN-5227,2024-09-09,Operations,Maintenance,CleanPro,75959.48,Approved,9,3,2024,False,False
+TXN-5241,2024-03-03,HR,Payroll Tools,PayrollHero,31398.87,Approved,3,1,2024,False,False
+TXN-5247,2024-01-28,Operations,Maintenance,TechRepair,31309.66,Approved,1,1,2024,False,False
+TXN-5291,2024-09-14,Finance,Audit Fees,SGV & Co,31950.89,Approved,9,3,2024,False,False
+TXN-5293,2024-01-15,Finance,Taxes,BIR Payment,52326.51,Approved,1,1,2024,False,False
+TXN-5294,2024-06-19,Engineering,Cloud Services,AWS,101646.22,Approved,6,2,2024,False,False
+TXN-5321,2024-03-24,Finance,Audit Fees,SGV & Co,46397.03,Approved,3,1,2024,False,False
+TXN-5332,2024-09-26,Operations,Office Supplies,Lazada B2B,82283.55,Approved,9,3,2024,False,False
+TXN-5360,2024-06-14,Engineering,Software Licenses,Figma,240368.99,Pending,6,2,2024,False,False
+TXN-5368,2024-07-24,Marketing,Content,Content Studio,98186.76,Approved,7,3,2024,False,False
+TXN-5396,2024-08-02,Sales,CRM Software,Salesforce,150068.25,Flagged,8,3,2024,False,False
+TXN-5427,2024-06-22,Finance,Banking Fees,BDO,50002.8,Approved,6,2,2024,False,False
+TXN-5457,2024-03-17,Marketing,Software,Canva Pro,166539.22,Approved,3,1,2024,False,False
+TXN-5459,2024-06-15,Sales,Travel,Philippine Airlines,130757.97,Approved,6,2,2024,False,False
+TXN-5462,2024-06-15,Finance,Taxes,BIR Payment,67020.44,Approved,6,2,2024,False,False
+TXN-5473,2024-04-16,Engineering,Cloud Services,AWS,10047.7,Approved,4,2,2024,False,False
+TXN-5484,2024-09-21,Marketing,Ad Spend,Meta Ads,6673.92,Approved,9,3,2024,False,False
+TXN-5003,2024-07-28,Finance,Banking Fees,BDO,35688.28,Approved,7,3,2024,False,False
+TXN-5013,2024-08-08,Operations,Utilities,Manila Water,65637.11,Approved,8,3,2024,False,False
+TXN-5022,2024-08-11,Engineering,Software Licenses,Jira,218037.71,Approved,8,3,2024,False,False
+TXN-5033,2024-01-19,HR,Recruitment,LinkedIn,114036.43,Approved,1,1,2024,False,False
+TXN-5047,2024-04-18,Engineering,Cloud Services,AWS,15029.84,Approved,4,2,2024,False,False
+TXN-5056,2024-05-06,Finance,Taxes,BIR Payment,24612.77,Approved,5,2,2024,False,False
+TXN-5064,2024-08-21,Operations,Maintenance,TechRepair,56639.35,Approved,8,3,2024,False,False
+TXN-5084,2024-09-04,Finance,Taxes,BIR Payment,58439.84,Approved,9,3,2024,False,False
+TXN-5086,2024-02-06,Marketing,Ad Spend,Meta Ads,115341.48,Approved,2,1,2024,False,False
+TXN-5103,2024-02-26,Sales,Client Entertainment,BGC Restaurants,129596.3,Approved,2,1,2024,False,False
+TXN-5106,2024-01-06,Marketing,Events,Venues Inc,-2664.6,Approved,1,1,2024,False,True
+TXN-5108,2024-07-20,Marketing,Software,Adobe,87103.76,Approved,7,3,2024,False,False
+TXN-5113,2024-08-20,Operations,Office Supplies,Lazada B2B,41392.68,Approved,8,3,2024,False,False
+TXN-5151,2024-07-06,Engineering,Cloud Services,Unknown Vendor,19179.8,Approved,7,3,2024,False,False
+TXN-5167,2024-02-28,Marketing,Events,Venues Inc,154600.41,Approved,2,1,2024,False,False
+TXN-5174,2024-07-26,Marketing,Ad Spend,TikTok Ads,167660.9,Approved,7,3,2024,False,False
+TXN-5194,2024-08-27,Engineering,Equipment,Unknown Vendor,121591.85,Approved,8,3,2024,False,False
+TXN-5198,2024-05-15,Sales,Travel,Airbnb Biz,162188.13,Approved,5,2,2024,False,False
+TXN-5202,2024-08-17,Finance,Audit Fees,SGV & Co,43457.79,Approved,8,3,2024,False,False
+TXN-5261,2024-05-08,Engineering,Software Licenses,Jira,60260.37,Approved,5,2,2024,False,False
+TXN-5276,2024-03-11,Finance,Audit Fees,SGV & Co,46885.07,Approved,3,1,2024,False,False
+TXN-5287,2024-01-26,HR,Payroll Tools,Sprout HR,39446.41,Approved,1,1,2024,False,False
+TXN-5299,2024-01-11,Operations,Maintenance,BuildFix Co,34599.03,Approved,1,1,2024,False,False
+TXN-5305,2024-09-03,Engineering,Contractors,TechStaff,203157.1,Approved,9,3,2024,False,False
+TXN-5326,2024-09-23,Engineering,Contractors,TechStaff,120729.15,Approved,9,3,2024,False,False
+TXN-5340,2024-09-08,Finance,Taxes,BIR Payment,16066.79,Approved,9,3,2024,False,False
+TXN-5349,2024-03-15,Finance,Banking Fees,Unknown Vendor,8098.3,Approved,3,1,2024,False,False
+TXN-5383,2024-01-12,Engineering,Software Licenses,Figma,83059.12,Approved,1,1,2024,False,False
+TXN-5385,2024-03-01,Marketing,Events,Catering Co,118522.83,Approved,3,1,2024,False,False
+TXN-5404,2024-05-12,Finance,Banking Fees,UnionBank,2026.92,Approved,5,2,2024,False,False
+TXN-5415,2024-04-24,Sales,Client Entertainment,Resorts World,149387.25,Pending,4,2,2024,False,False
+TXN-5430,2024-05-17,Engineering,Software Licenses,Jira,209579.88,Approved,5,2,2024,False,False
+TXN-5447,2024-09-28,Finance,Audit Fees,SGV & Co,23020.73,Approved,9,3,2024,False,False
+TXN-5458,2024-07-01,Engineering,Contractors,Unknown Vendor,219901.79,Approved,7,3,2024,False,False
+TXN-5467,2024-09-16,Finance,Accounting Software,Xero,45285.03,Approved,9,3,2024,False,False
+TXN-5477,2024-07-06,Operations,Office Supplies,Lazada B2B,41561.75,Approved,7,3,2024,False,False
+TXN-5480,2024-07-08,Marketing,Content,Content Studio,125355.87,Approved,7,3,2024,False,False
+TXN-5493,2024-09-10,Operations,Logistics,LBC,24150.68,Approved,9,3,2024,False,False
+TXN-5012,2024-07-13,HR,Benefits,PhilHealth,14749.06,Approved,7,3,2024,False,False
+TXN-5020,2024-05-07,Finance,Audit Fees,SGV & Co,60865.5,Approved,5,2,2024,False,False
+TXN-5025,2024-08-03,Operations,Logistics,Lalamove,62214.77,Approved,8,3,2024,False,False
+TXN-5030,2024-04-20,Sales,Client Entertainment,Makati Hotels,155995.91,Approved,4,2,2024,False,False
+TXN-5031,2024-02-05,HR,Recruitment,JobStreet,47713.08,Approved,2,1,2024,False,False
+TXN-5048,2024-02-21,Marketing,Software,Adobe,120060.33,Approved,2,1,2024,False,False
+TXN-5053,2024-04-03,Sales,CRM Software,Zoho CRM,-11698.97,Approved,4,2,2024,False,True
+TXN-5060,2024-03-26,Sales,Client Entertainment,Resorts World,74881.85,Approved,3,1,2024,False,False
+TXN-5072,2024-01-18,Sales,CRM Software,Salesforce,53907.23,Approved,1,1,2024,False,False
+TXN-5098,2024-05-13,Engineering,Software Licenses,Figma,82709.23,Pending,5,2,2024,False,False
+TXN-5123,2024-01-21,Marketing,Events,Catering Co,47705.21,Approved,1,1,2024,False,False
+TXN-5142,2024-04-25,Finance,Audit Fees,P&A Grant Thornton,44173.65,Approved,4,2,2024,False,False
+TXN-5170,2024-08-01,Operations,Logistics,LBC,7231.16,Approved,8,3,2024,False,False
+TXN-5179,2024-02-08,Operations,Maintenance,BuildFix Co,12484.88,Approved,2,1,2024,False,False
+TXN-5200,2024-02-27,Marketing,Software,Adobe,148168.4,Approved,2,1,2024,False,False
+TXN-5211,2024-07-21,Finance,Taxes,BIR Payment,10677.76,Approved,7,3,2024,False,False
+TXN-5230,2024-04-23,HR,Recruitment,Kalibrr,70392.12,Pending,4,2,2024,False,False
+TXN-5243,2024-03-20,Operations,Utilities,Meralco,25531.7,Approved,3,1,2024,False,False
+TXN-5244,2024-04-10,Marketing,Ad Spend,Meta Ads,-1478.01,Approved,4,2,2024,False,True
+TXN-5271,2024-02-23,Marketing,Content,Freelance Hub,37726.63,Approved,2,1,2024,False,False
+TXN-5353,2024-07-21,HR,Training,TrainPH,87218.13,Approved,7,3,2024,False,False
+TXN-5357,2024-08-18,Finance,Accounting Software,Xero,25755.53,Approved,8,3,2024,False,False
+TXN-5359,2024-08-02,HR,Training,Coursera B2B,25630.09,Approved,8,3,2024,False,False
+TXN-5400,2024-06-27,Sales,Client Entertainment,BGC Restaurants,116480.89,Approved,6,2,2024,False,False
+TXN-5422,2024-07-25,Engineering,Software Licenses,Unknown Vendor,14037.12,Pending,7,3,2024,False,False
+TXN-5441,2024-02-21,HR,Benefits,PhilHealth,77488.4,Pending,2,1,2024,False,False
+TXN-5444,2024-04-03,Finance,Taxes,BIR Payment,13251.13,Approved,4,2,2024,False,False
+TXN-5448,2024-06-15,HR,Payroll Tools,PayrollHero,43182.72,Approved,6,2,2024,False,False
+TXN-5476,2024-04-23,Finance,Audit Fees,SGV & Co,29110.55,Approved,4,2,2024,False,False
+TXN-5017,2024-05-28,Engineering,Software Licenses,Figma,71157.92,Approved,5,2,2024,False,False
+TXN-5021,2024-06-18,Finance,Accounting Software,QuickBooks,57236.43,Flagged,6,2,2024,False,False
+TXN-5045,2024-04-24,Operations,Logistics,LBC,32977.5,Approved,4,2,2024,False,False
+TXN-5075,2024-06-25,Finance,Audit Fees,SGV & Co,3096.71,Approved,6,2,2024,False,False
+TXN-5077,2024-03-05,Sales,Commissions,Internal Payroll,167859.63,Approved,3,1,2024,False,False
+TXN-5081,2024-01-06,Sales,Client Entertainment,Makati Hotels,55626.37,Approved,1,1,2024,False,False
+TXN-5094,2024-04-10,Marketing,Software,Adobe,34299.36,Pending,4,2,2024,False,False
+TXN-5110,2024-04-20,HR,Recruitment,LinkedIn,103756.03,Approved,4,2,2024,False,False
+TXN-5143,2024-09-12,HR,Recruitment,LinkedIn,83776.14,Approved,9,3,2024,False,False
+TXN-5206,2024-08-10,Sales,CRM Software,Zoho CRM,101973.72,Approved,8,3,2024,False,False
+TXN-5219,2024-04-25,Sales,Commissions,Internal Payroll,182537.99,Approved,4,2,2024,False,False
+TXN-5288,2024-04-08,Marketing,Content,Content Studio,67948.86,Approved,4,2,2024,False,False
+TXN-5341,2024-08-06,Operations,Office Supplies,Shopee B2B,75731.01,Approved,8,3,2024,False,False
+TXN-5358,2024-07-24,Engineering,Equipment,SM Cyberzone,217846.99,Pending,7,3,2024,False,False
+TXN-5362,2024-06-18,Operations,Logistics,J&T Express,11407.53,Approved,6,2,2024,False,False
+TXN-5411,2024-02-09,Operations,Maintenance,CleanPro,89912.06,Flagged,2,1,2024,False,False
+TXN-5418,2024-07-13,Marketing,Events,Venues Inc,23378.71,Approved,7,3,2024,False,False
+TXN-5419,2024-03-09,Marketing,Content,Freelance Hub,110551.9,Approved,3,1,2024,False,False
+TXN-5423,2024-09-04,Sales,Travel,Cebu Pacific,16068.13,Approved,9,3,2024,False,False
+TXN-5453,2024-04-28,Operations,Office Supplies,Lazada B2B,25293.03,Approved,4,2,2024,False,False
+TXN-5464,2024-01-07,Sales,Client Entertainment,Makati Hotels,143548.76,Approved,1,1,2024,False,False
+TXN-5489,2024-05-24,Sales,CRM Software,Salesforce,67790.41,Approved,5,2,2024,False,False
+TXN-5492,2024-07-02,Marketing,Software,Adobe,-16322.63,Approved,7,3,2024,False,True
+TXN-5038,2024-05-02,Operations,Utilities,Unknown Vendor,69485.37,Approved,5,2,2024,False,False
+TXN-5042,2024-09-03,Engineering,Software Licenses,Figma,62879.57,Approved,9,3,2024,False,False
+TXN-5046,2024-01-01,Operations,Utilities,Meralco,507223.79,Flagged,1,1,2024,True,False
+TXN-5068,2024-01-22,Operations,Maintenance,BuildFix Co,58306.94,Approved,1,1,2024,False,False
+TXN-5070,2024-06-05,Marketing,Content,Freelance Hub,165835.63,Approved,6,2,2024,False,False
+TXN-5119,2024-01-17,HR,Benefits,Maxicare,801333.56,Flagged,1,1,2024,True,False
+TXN-5152,2024-05-23,Operations,Utilities,Manila Water,22456.47,Approved,5,2,2024,False,False
+TXN-5171,2024-04-21,Operations,Office Supplies,Lazada B2B,13509.59,Approved,4,2,2024,False,False
+TXN-5175,2024-01-02,Engineering,Equipment,SM Cyberzone,77212.73,Approved,1,1,2024,False,False
+TXN-5195,2024-06-27,Engineering,Contractors,DevShop PH,201291.72,Approved,6,2,2024,False,False
+TXN-5209,2024-07-14,Operations,Office Supplies,National Book Store,19906.71,Approved,7,3,2024,False,False
+TXN-5234,2024-05-13,HR,Recruitment,Kalibrr,30988.12,Approved,5,2,2024,False,False
+TXN-5246,2024-08-25,Sales,Client Entertainment,Makati Hotels,44859.52,Approved,8,3,2024,False,False
+TXN-5251,2024-09-14,Marketing,Ad Spend,TikTok Ads,130006.03,Approved,9,3,2024,False,False
+TXN-5263,2024-06-21,Engineering,Cloud Services,Azure,101166.31,Approved,6,2,2024,False,False
+TXN-5264,2024-06-11,HR,Benefits,PhilHealth,39165.52,Approved,6,2,2024,False,False
+TXN-5267,2024-07-05,Engineering,Cloud Services,Azure,56834.16,Approved,7,3,2024,False,False
+TXN-5270,2024-02-21,HR,Training,TrainPH,91089.43,Approved,2,1,2024,False,False
+TXN-5277,2024-03-17,Operations,Office Supplies,Shopee B2B,503670.53,Flagged,3,1,2024,True,False
+TXN-5296,2024-02-14,Finance,Audit Fees,SGV & Co,6666.26,Approved,2,1,2024,False,False
+TXN-5302,2024-03-17,Engineering,Cloud Services,Google Cloud,112588.5,Approved,3,1,2024,False,False
+TXN-5317,2024-08-04,HR,Recruitment,Kalibrr,17040.64,Approved,8,3,2024,False,False
+TXN-5327,2024-02-28,Finance,Banking Fees,BPI,35036.13,Approved,2,1,2024,False,False
+TXN-5333,2024-01-01,Marketing,Software,HubSpot,61229.2,Approved,1,1,2024,False,False
+TXN-5334,2024-05-06,Engineering,Contractors,DevShop PH,126737.76,Approved,5,2,2024,False,False
+TXN-5338,2024-06-07,Operations,Office Supplies,Lazada B2B,81576.2,Approved,6,2,2024,False,False
+TXN-5388,2024-04-17,Finance,Accounting Software,QuickBooks,49421.92,Flagged,4,2,2024,False,False
+TXN-5390,2024-06-13,Marketing,Software,HubSpot,62118.74,Approved,6,2,2024,False,False
+TXN-5408,2024-04-02,HR,Training,Udemy Teams,33173.69,Approved,4,2,2024,False,False
+TXN-5429,2024-09-09,HR,Payroll Tools,Sprout HR,65433.12,Approved,9,3,2024,False,False
+TXN-5443,2024-06-16,Operations,Office Supplies,National Book Store,55150.55,Approved,6,2,2024,False,False
+TXN-5461,2024-03-21,Engineering,Software Licenses,Jira,134084.34,Approved,3,1,2024,False,False
+TXN-5471,2024-07-21,Operations,Logistics,J&T Express,-11889.31,Flagged,7,3,2024,False,True
+TXN-5481,2024-05-05,Engineering,Contractors,TechStaff,230417.36,Approved,5,2,2024,False,False
+TXN-5488,2024-08-07,HR,Recruitment,Kalibrr,82715.41,Approved,8,3,2024,False,False
+TXN-5491,2024-03-20,Engineering,Equipment,Dell PH,11731.57,Approved,3,1,2024,False,False

@@ -1,0 +1,94 @@
+============================================================
+  ANALYSIS REPORT — Finance Expense Analysis
+  Run at: 2026-02-28 15:31:37
+============================================================
+
+============================================================
+QUESTION 1 — Department Budget vs Actual Spend
+============================================================
+
+  Engineering     Actual: ₱  12,152,638  Budget: ₱   3,911,961  Variance: +210.7%  ⚠ OVER BUDGET
+  Marketing       Actual: ₱   7,991,353  Budget: ₱   3,121,430  Variance: +156.0%  ⚠ OVER BUDGET
+  Sales           Actual: ₱   6,776,183  Budget: ₱   3,565,451  Variance: +90.1%  ⚠ OVER BUDGET
+  HR              Actual: ₱   4,464,496  Budget: ₱   1,731,335  Variance: +157.9%  ⚠ OVER BUDGET
+  Finance         Actual: ₱   2,697,200  Budget: ₱   1,244,646  Variance: +116.7%  ⚠ OVER BUDGET
+  Operations      Actual: ₱   3,249,919  Budget: ₱   2,021,508  Variance: +60.8%  ⚠ OVER BUDGET
+
+  Departments over budget: 6 of 6
+
+============================================================
+QUESTION 2 — Top Spending Categories
+============================================================
+
+  Engineering     | Contractors               ₱   3,869,918  (27 txns)
+  Engineering     | Software Licenses         ₱   3,424,476  (29 txns)
+  Engineering     | Equipment                 ₱   2,874,315  (23 txns)
+  Marketing       | Software                  ₱   2,394,985  (22 txns)
+  Marketing       | Ad Spend                  ₱   2,291,882  (20 txns)
+  Sales           | CRM Software              ₱   2,088,295  (18 txns)
+  Engineering     | Cloud Services            ₱   1,983,929  (22 txns)
+  Sales           | Client Entertainment      ₱   1,854,885  (18 txns)
+  Sales           | Commissions               ₱   1,718,509  (15 txns)
+  Marketing       | Content                   ₱   1,715,037  (19 txns)
+  HR              | Training                  ₱   1,711,271  (29 txns)
+  Marketing       | Events                    ₱   1,589,448  (17 txns)
+  HR              | Recruitment               ₱   1,237,315  (22 txns)
+  Sales           | Travel                    ₱   1,114,494  (14 txns)
+  Operations      | Office Supplies           ₱   1,025,650  (27 txns)
+
+  Top 10 Vendors by Spend:
+
+  SM Cyberzone              [Engineering ] ₱   1,545,299
+  Internal Payroll          [Sales       ] ₱   1,526,384
+  TechStaff                 [Engineering ] ₱   1,516,455
+  DevShop PH                [Engineering ] ₱   1,476,970
+  Jira                      [Engineering ] ₱   1,465,053
+  Figma                     [Engineering ] ₱   1,413,963
+  Salesforce                [Sales       ] ₱   1,083,027
+  TikTok Ads                [Marketing   ] ₱     895,910
+  Zoho CRM                  [Sales       ] ₱     880,026
+  Adobe                     [Marketing   ] ₱     869,521
+
+============================================================
+QUESTION 3 — Suspicious / Anomalous Transactions
+============================================================
+
+  Total flagged: 5 transactions
+
+  TXN-5119  |  2024-01-17  |  HR            |  Benefits              |  ₱     801,334  |  Maxicare
+  TXN-5386  |  2024-02-12  |  Operations    |  Office Supplies       |  ₱     661,690  |  National Book Store
+  TXN-5446  |  2024-09-12  |  Finance       |  Audit Fees            |  ₱     518,769  |  P&A Grant Thornton
+  TXN-5046  |  2024-01-01  |  Operations    |  Utilities             |  ₱     507,224  |  Meralco
+  TXN-5277  |  2024-03-17  |  Operations    |  Office Supplies       |  ₱     503,671  |  Shopee B2B
+
+  Refunds by Department:
+
+    Sales           4 refunds  ₱44,345
+    Finance         2 refunds  ₱35,698
+    HR              2 refunds  ₱25,757
+    Marketing       3 refunds  ₱20,465
+    Engineering     2 refunds  ₱11,915
+    Operations      1 refunds  ₱11,889
+
+============================================================
+QUESTION 4 — Monthly Spending Trend
+============================================================
+
+    Jan:  ₱   3,475,173  (47 transactions)
+    Feb:  ₱   3,426,597  (45 transactions)
+    Mar:  ₱   4,822,934  (61 transactions)
+    Apr:  ₱   3,130,130  (49 transactions)
+    May:  ₱   4,635,323  (51 transactions)
+    Jun:  ₱   4,980,855  (61 transactions)
+    Jul:  ₱   3,780,743  (50 transactions)
+    Aug:  ₱   4,241,166  (53 transactions)
+    Sep:  ₱   4,838,867  (59 transactions)
+
+============================================================
+
+OVERALL SUMMARY
+  Total Actual Spend : ₱  37,331,789
+  Total Budget       : ₱  15,596,330
+  Overall Variance   : ₱ +21,735,459  (+139.4%)
+  Anomalous Txns     : 5 flagged for investigation
+  Departments Over   : 6 of 6

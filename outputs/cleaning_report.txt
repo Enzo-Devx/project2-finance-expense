@@ -1,0 +1,28 @@
+============================================================
+  CLEANING REPORT — Finance Project 02
+  Run at: 2026-02-27 14:25:15
+============================================================
+
+Raw transactions loaded : 500
+Raw budget loaded       : 54
+
+[Step 2] Blank rows dropped: 4
+[Step 3] Dates standardized. Unparseable: 0
+[Step 4] Duplicate rows dropped: 1
+[Step 5] Anomalies flagged (>₱400K): 5
+         Refunds flagged: 14
+         Null amounts imputed: 0
+[Step 6] Missing vendors filled: 18
+[Step 7] Department names normalized for clean JOIN.
+
+[Step 8] Final Validation:
+ total_rows  unique_depts  null_amounts  anomalies  refunds earliest_date latest_date
+        495             6           NaN        5.0     14.0    2024-01-01  2024-09-28
+
+FINAL SUMMARY
+  Transactions : 500 raw → 495 clean (5 removed)
+  Budget       : 54 raw → 54 clean
+  Anomalies flagged : 5
+  Refunds flagged   : 14
+
+Clean files saved to: outputs/

@@ -1,0 +1,6 @@
+txn_id,txn_date,department,category,vendor,amount,status
+TXN-5119,2024-01-17,HR,Benefits,Maxicare,801333.56,Flagged
+TXN-5386,2024-02-12,Operations,Office Supplies,National Book Store,661689.62,Flagged
+TXN-5446,2024-09-12,Finance,Audit Fees,P&A Grant Thornton,518768.91,Flagged
+TXN-5046,2024-01-01,Operations,Utilities,Meralco,507223.79,Flagged
+TXN-5277,2024-03-17,Operations,Office Supplies,Shopee B2B,503670.53,Flagged
